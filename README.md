@@ -2,8 +2,7 @@
 <p align="left">
 </p>
 
-![github-readme-stats](https://read-me-cpxt.vercel.app/api/?username=enbanbunbun123)
-
+[![github-readme-stats](https://read-me-cpxt.vercel.app/api/?username=enbanbunbun123)]
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
