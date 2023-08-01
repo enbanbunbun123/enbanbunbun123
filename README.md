@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my page!</h2>
+<h2 align="center">HI! I'm Yuho Takahashi.</h2>
 <p align="left">
 </p>
 
