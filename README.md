@@ -14,5 +14,5 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 
-# My Qiita posts
+### My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/enbanbunbun123/posts.svg)](http://qiita.com/enbanbunbun123)
