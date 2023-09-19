@@ -2,6 +2,23 @@
 <p align="left">
 </p>
 
+### 自己紹介
+```yaml
+'言語': '日本語'
+'名前': '高橋　侑歩'
+'居住地': '東京'
+'職業': '大学生　（25卒）'
+'専攻': '機械工学'
+'技術領域': 'フロントエンド'
+
+'lang': 'English'
+'name': 'Yuho Takahashi'
+'located_in': 'Tokyo Japan'
+'current_job': 'University Student'
+'major': 'Mechanical engineering'
+'technical_field': 'Frontend'
+```
+
 <h3 align="left">使用経験のある言語・ツール:</h3>
 <p align="left">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
