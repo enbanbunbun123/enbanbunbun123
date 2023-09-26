@@ -14,8 +14,8 @@
 'lang': 'English'
 'name': 'Yuho Takahashi'
 'located_in': 'Tokyo Japan'
-'current_job': 'University Student'
-'major': 'Mechanical engineering'
+'current_job': 'University_Student'
+'major': 'Mechanical_engineering'
 'technical_field': 'Frontend'
 ```
 
