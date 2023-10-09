@@ -20,6 +20,8 @@
 'technical_field': 'Frontend'
 ```
 
+<br />
+
 ## 使用経験のある言語・ツール:
 <p align="left">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -36,17 +38,26 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
+<br />
+
 ## 過去の制作物
 ### __Event Search__
 全国のイベントを投稿・閲覧できるサービス（個人制作）
 
-https://fir-signin-99989.firebaseapp.com/
+サービスURL : https://fir-signin-99989.firebaseapp.com/
 
+githubリポジトリ : https://github.com/enbanbunbun123/Event-Search
+
+<br />
 
 ### __RAY-BOON__
 単語から例文を自動生成できるアプリ（ハッカソンにて）
 
-https://play.google.com/store/apps/details?id=com.rayboon&pli=1
+サービスURL : https://play.google.com/store/apps/details?id=com.rayboon&pli=1
+
+githubリポジトリ : https://github.com/enbanbunbun123/RAY-BOON
+
+<br />
 
 ## My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/enbanbunbun123/posts.svg)](http://qiita.com/enbanbunbun123)
