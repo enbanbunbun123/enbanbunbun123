@@ -18,6 +18,7 @@
 'current_job': 'University_Student'
 'major': 'Mechanical Eengineering'
 'technical_field': 'Frontend'
+'Future_image': 'An engineer who can provide value tailored to user needs'
 ```
 
 <br />
