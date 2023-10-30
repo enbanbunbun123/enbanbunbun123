@@ -52,11 +52,18 @@ githubリポジトリ : https://github.com/enbanbunbun123/Event-Search
 <br />
 
 ### __RAY-BOON__
-単語から例文を自動生成できるアプリ（ハッカソンにて）
+単語から例文を自動生成できるアプリ（技育CAMP vol.4にて）
 
 サービスURL : https://play.google.com/store/apps/details?id=com.rayboon&pli=1
 
 githubリポジトリ : https://github.com/enbanbunbun123/RAY-BOON
+
+<br />
+
+### __フォトマ__
+写真を撮られたい人と撮りたい人のマッチングサービス
+
+githubリポジトリ : https://github.com/jphacks/OL_2306
 
 <br />
 
