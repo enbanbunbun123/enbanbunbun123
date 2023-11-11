@@ -10,7 +10,6 @@
 '職業': '大学生　（25卒）'
 '専攻': '機械工学'
 '技術領域': 'フロントエンド'
-'なりたいエンジニア像': '「ユーザーのニーズに寄り添った価値」を提供できるエンジニア'
 
 'lang': 'English'
 'name': 'Yuho_Takahashi'
@@ -18,7 +17,6 @@
 'current_job': 'University_Student'
 'major': 'Mechanical Eengineering'
 'technical_field': 'Frontend'
-'Future_image': 'An engineer who can provide value tailored to user needs'
 ```
 
 <br />
@@ -63,7 +61,7 @@ githubリポジトリ : https://github.com/enbanbunbun123/RAY-BOON
 ### __フォトマ__
 写真を撮られたい人と撮りたい人のマッチングサービス(JP Hacksにて)
 
-githubリポジトリ : https://github.com/jphacks/OL_2306
+githubリポジトリ : https://github.com/enbanbunbun123/OL_2306
 
 <br />
 
