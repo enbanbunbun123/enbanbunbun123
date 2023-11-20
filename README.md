@@ -12,9 +12,9 @@
 '技術領域': 'フロントエンド'
 
 'lang': 'English'
-'name': 'Yuho_Takahashi'
-'located_in': 'Tokyo_Japan'
-'current_job': 'University_Student'
+'name': 'Yuho　Takahashi'
+'located_in': 'Tokyo　Japan'
+'current_job': 'University　Student'
 'major': 'Mechanical Eengineering'
 'technical_field': 'Frontend'
 ```
