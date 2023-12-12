@@ -59,7 +59,7 @@ githubリポジトリ : https://github.com/enbanbunbun123/RAY-BOON
 <br />
 
 ### __フォトマ__
-写真を撮られたい人と撮りたい人のマッチングサービス(JP Hacksにて)
+写真を撮りたい人と撮られたい人のマッチングサービス(JP Hacksにて)
 
 githubリポジトリ : https://github.com/enbanbunbun123/OL_2306
 
