@@ -41,7 +41,7 @@
 
 ## 過去の制作物
 ### __Event Search__
-全国のイベントを投稿・閲覧できるサービス（個人制作）
+全国のイベントを投稿・閲覧できるサービス（個人開発）
 
 サービスURL : https://fir-signin-99989.firebaseapp.com/
 
@@ -50,7 +50,7 @@ githubリポジトリ : https://github.com/enbanbunbun123/Event-Search
 <br />
 
 ### __RAY-BOON__
-単語から例文を自動生成できるアプリ（技育CAMP vol.4にて）
+単語から例文を自動生成できるアプリ（技育CAMP vol.4にて開発）
 
 サービスURL : https://play.google.com/store/apps/details?id=com.rayboon&pli=1
 
@@ -59,7 +59,7 @@ githubリポジトリ : https://github.com/enbanbunbun123/RAY-BOON
 <br />
 
 ### __フォトマ__
-写真を撮りたい人と撮られたい人のマッチングサービス(JP Hacksにて)
+写真を撮りたい人と撮られたい人のマッチングサービス(JP Hacksにて開発)
 
 githubリポジトリ : https://github.com/enbanbunbun123/OL_2306
 
