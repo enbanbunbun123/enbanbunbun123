@@ -7,16 +7,14 @@
 '言語': '日本語'
 '名前': '高橋　侑歩'
 '居住地': '東京'
-'職業': '大学生　（25卒）'
+'職業': '大学院生　（25卒）'
 '専攻': '機械工学'
-'技術領域': 'フロントエンド'
 
 'lang': 'English'
 'name': 'Yuho　Takahashi'
 'located_in': 'Tokyo　Japan'
-'current_job': 'University　Student'
+'current_job': 'Graduate student'
 'major': 'Mechanical Eengineering'
-'technical_field': 'Frontend'
 ```
 
 <br />
